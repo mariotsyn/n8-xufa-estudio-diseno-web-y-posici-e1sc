@@ -1,0 +1,66 @@
+{
+  "business": {
+    "name": "Xufa Estudio - Diseño Web y posicionamiento SEO",
+    "tagline": "Potenciamos tu presencia digital con estrategia.",
+    "description": "En Xufa Estudio transformamos tu presencia online con diseños web a medida y estrategias de SEO que generan resultados reales. Ayudamos a negocios en Valencia a destacar en un mercado competitivo mediante soluciones digitales de alto rendimiento.",
+    "phone": "",
+    "address": "Av. de l'Oest, 23, P3, Ciutat Vella, 46001 València, Valencia, España",
+    "email": "hola@xufaestudio.es",
+    "rating": 5,
+    "reviewCount": 125,
+    "hours": [
+      "Monday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+      "Tuesday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+      "Wednesday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+      "Thursday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+      "Friday: 9:00 AM – 2:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ]
+  },
+  "theme": {
+    "primary": "#2D3436",
+    "secondary": "#0984E3",
+    "accent": "#FF7675",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Haz que tu negocio domine los resultados de búsqueda",
+    "subheadline": "Creamos sitios web optimizados y estrategias SEO que convierten visitantes en clientes leales. Lidera el mercado digital hoy mismo.",
+    "cta1": { "text": "Solicitar Presupuesto", "href": "#contact" },
+    "cta2": { "text": "Ver Servicios", "href": "#services" },
+    "imageUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1200&q=80"
+  },
+  "services": [
+    { "icon": "💻", "title": "Diseño Web Profesional", "description": "Desarrollamos webs intuitivas y modernas que reflejan la identidad de tu marca. Enfocadas 100% en la experiencia de usuario y la conversión." },
+    { "icon": "🚀", "title": "Posicionamiento SEO", "description": "Escala posiciones en Google y atrae tráfico cualificado a tu negocio. Optimizamos cada detalle técnico y de contenido para destacar frente a la competencia." },
+    { "icon": "🎨", "title": "Diseño UI/UX", "description": "Creamos interfaces digitales que enamoran a primera vista. Priorizamos la usabilidad para garantizar que tus clientes encuentren lo que buscan fácilmente." },
+    { "icon": "📊", "title": "Marketing Estratégico", "description": "Analizamos tus metas para crear hojas de ruta digitales efectivas. Convertimos datos en decisiones rentables para tu crecimiento empresarial." }
+  ],
+  "about": {
+    "title": "Expertos en hacer crecer negocios digitales en Valencia",
+    "text": "En Xufa Estudio, creemos que cada negocio tiene una historia única que merece ser contada correctamente en internet. Ubicados en el corazón de Ciutat Vella, unimos creatividad y tecnología para ofrecer resultados tangibles.\n\nNuestra metodología se basa en la transparencia y el compromiso con los resultados de nuestros clientes. No solo diseñamos páginas web; construimos activos digitales que trabajan para ti las 24 horas del día.",
+    "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80", "alt": "Equipo trabajando en diseño creativo" },
+    { "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80", "alt": "Espacio de trabajo moderno y minimalista" },
+    { "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80", "alt": "Edificios corporativos en el centro de Valencia" },
+    { "url": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1200&q=80", "alt": "Analítica de datos y marketing digital" }
+  ],
+  "testimonials": [
+    { "name": "Elena Martínez", "stars": 5, "text": "Un servicio excelente. Gracias a Xufa Estudio, mi página web finalmente aparece en la primera página de Google." },
+    { "name": "Carlos Ruíz", "stars": 5, "text": "Profesionales, rápidos y con un trato muy cercano. Han transformado totalmente la imagen digital de mi negocio." },
+    { "name": "Sofía García", "stars": 4, "text": "Diseño impecable y una estrategia SEO que realmente funciona. Muy recomendable para negocios locales en Valencia." }
+  ],
+  "contact": {
+    "title": "¿Listo para llevar tu negocio al siguiente nivel?",
+    "subtitle": "Escríbenos hoy y agendemos una consultoría gratuita para analizar tu caso.",
+    "whatsappNumber": "",
+    "showMap": true,
+    "mapQuery": "Xufa Estudio - Diseño Web y posicionamiento SEO Av. de l'Oest, 23, P3, Ciutat Vella, 46001 València, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Xufa Estudio - Diseño Web y posicionamiento SEO"
+  }
+}
